@@ -1,0 +1,38 @@
+.TabelaCEP{
+    border: 1px solid #545454;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 50px;
+    margin-right: 750px;
+    margin-left: 750px;
+
+
+    padding: 15px;
+}
+
+.btn input{
+
+}
+
+.label-cep{
+    
+}
+
+.input-cep{
+    margin: 5px;
+}
+
+.divEnviar-cep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1_Titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
