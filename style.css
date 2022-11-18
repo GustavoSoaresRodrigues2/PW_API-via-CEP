@@ -1,23 +1,30 @@
 .TabelaCEP{
-    border: 1px solid #545454;
+    border: 5px solid #545454;
 
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
+    align-content: center;
 
     margin-top: 50px;
-    margin-right: 750px;
-    margin-left: 750px;
+    margin-right: 550px;
+    margin-left: 550px;
 
 
-    padding: 15px;
+    padding: 10px;
 }
 
-.btn input{
+tr, td{
+    border: 1px solid #545454;
 
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 
-.label-cep{
+.corpoTabela{
+    border: 2px solid #545454;
+
     
 }
 
